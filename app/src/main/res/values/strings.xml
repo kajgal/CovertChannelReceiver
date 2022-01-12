@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="covert_channel">Covert Channel</string>
+
+    <string name="receivedContacts">Received contacts:</string>
+    <string name="transmittingCharacter">Transmitting character:</string>
+    <string name="transmissionOverall">Overall:</string>
+    <string name="characterProgress">Progress:</string>
+    <string name="transmissionVolume">Volume:</string>
+    <string name="transmitterModeAll">name and number</string>
+    <string name="transmitterModeNumbersOnly">only number</string>
+    <string name="transmissionModeToggle">Transmission mode set to: </string>
+    <string name="receivedSignalValue">Received signal value:</string>
+    <string name="transmissionStatus">Transmission status:</string>
+    <string name="transmissionMode">Transmission mode:</string>
+    <string name="transmissionFinished">Transmission finished</string>
+
+    <string name="permissionDenied">Permission for audio recording must be granted!</string>
+</resources>
